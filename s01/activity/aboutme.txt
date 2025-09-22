@@ -2,3 +2,5 @@ Aive Abogado
 
 
 my motivation in joining the open-house program is to learn more about developing, as a tech career
+
+My only actual experience is at college where they made us do a capstone project. We decided for a capstone title "computerized payroll system for (company)" which did the payroll using rfid as attendance monitoring. We finished the system, it was a standalone desktop app and are planning on making a webapp out of it.
