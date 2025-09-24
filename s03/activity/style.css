@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    color: white;
+}
+
+body{
+    background-color: #217b7e;
+}
+nav{
+    padding: 16px;
+    margin-bottom: 4px;
+    background-color: #046169;
+    text-align: center;
+}
+
+.nav-link{
+    color: white;
+    margin: 0 2px 0 2px
+}
+.foot-link{
+    color: white;
+    margin: 0 2px 0 2px
+}
+
+a{
+    text-decoration: none;
+}
+
+#landing{
+    text-align: center;
+}
+
+#landing p{
+    width: 600px;
+    margin: 10px auto 10px auto;
+}
+
+#profile{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+
+    margin: 10px 0 20px 0;
+}
+
+#name, #title{
+    margin: 10px 0 10px 0;
+}
+
+#tools{
+    margin: 50px auto 10px auto;
+    text-align: center;
+}
+
+#tools-title{
+    margin-bottom: 20px;
+}
+
+#tools-img{
+    height: 100px;
+    width: 100px;
+}
+#tools-imgit{
+    height: 100px;
+    width: 150px;
+}
+
+#projects{
+    text-align: center;
+}
+
+
+.card{
+    background-color: #046169;
+    height: 400px;
+    width: 600px;
+    margin: 20px auto 20px auto;
+    padding: 10px 0;
+    border-radius: 5%;
+}
+
+.card-img{
+    margin-top: 5px;
+    height: 300px;
+    width: 300px;
+}
+
+#contact{
+    text-align: center;
+    padding: 16px;
+    margin-top: 4px;
+    background-color: #046169;
+}
